@@ -39,10 +39,10 @@ assets:
   - {seq: 16, filename: KR2f0018_016.yaml, hash: 'sha256:cace30c4db73c2d965b206feae5b70b8ad92eb2076ed44a6f0cb264ba7f8d166'}
   - {seq: 17, filename: KR2f0018_017.yaml, hash: 'sha256:a5391cf880c07494ed722cd2317ae8d930380807cd632a0fdfc0a480cad5777f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2f0018_000.markers.yaml, hash: 'sha256:8bd686274a1a8ff0327f42437d590f18a74b599ca78189588b41a85ad0dade58'}
+  - {seq: 0, role: markers, filename: assets/KR2f0018_000.markers.yaml, hash: 'sha256:f2c3141971c66d7a5cc4685ef629ec81158a48fa1838e7781e0d70d56a118ef6'}
   - {seq: 1, role: markers, filename: assets/KR2f0018_001.markers.yaml, hash: 'sha256:6bb9f8c1f82da0730bedb2e264aaca103425073817b00a3639fa2d21960033e2'}
   - {seq: 2, role: markers, filename: assets/KR2f0018_002.markers.yaml, hash: 'sha256:7b110d684bcd895b42c81e23fe4d89e4b67988853c4bfa6f8e18692a14229311'}
-  - {seq: 3, role: markers, filename: assets/KR2f0018_003.markers.yaml, hash: 'sha256:68e958767271d889dcc0486914674f2b61bb0dd7f66386718b96e2d95015d927'}
+  - {seq: 3, role: markers, filename: assets/KR2f0018_003.markers.yaml, hash: 'sha256:65d2e6c145b83fae9f13e6f45b27e22bf5b0c2c8d8085441037ed2e33361b1df'}
   - {seq: 4, role: markers, filename: assets/KR2f0018_004.markers.yaml, hash: 'sha256:47c9a1f4df7aeebb273d19d9ce54e5f834958dd02777bf9bf281d5db188840fc'}
   - {seq: 5, role: markers, filename: assets/KR2f0018_005.markers.yaml, hash: 'sha256:d807eb875aa9806fba4c1672cf38d186460b9d33ad0be016a3e710f14978e8a4'}
   - {seq: 6, role: markers, filename: assets/KR2f0018_006.markers.yaml, hash: 'sha256:369563107b54c080607c90e54b8092b796adcc761a4401b4ccc729242ec53916'}
@@ -248,7 +248,7 @@ table_of_contents:
   label: 後跋
   type: section
   level: 1
-hash: sha256:7d88496bd05e84cc1dac6f0bd6ea7625407039200a287094d496be74894f899b
+hash: sha256:fd0e43ec128a8cc4a901226a5bc9125e403353f29877ef1558dc0eb598b95b02
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
